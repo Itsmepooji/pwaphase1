@@ -1,0 +1,29 @@
+
+.main{
+  display: flex;
+    justify-content: space-around;
+  background: #d1f2eb;
+  margin:3%;
+  padding: 3%;
+
+}
+.left{
+  background:hsl(300, 76%, 72%);
+  padding: 3%;
+  margin: 15%;
+  box-shadow: 3px 3px 3px black ;
+  border-radius: 9%;
+}
+.right{
+  background:#33aaff ;
+  padding: 3%;
+  margin: 15%;
+  box-shadow: 3px 3px 3px black ;
+  border-radius: 2%;
+}
+
+
+img{
+  width: 100;
+  border-radius: 6%;
+}

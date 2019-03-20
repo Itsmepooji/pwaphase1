@@ -1,0 +1,35 @@
+body{
+  background: pink;
+}
+.parent{
+  display: flex;
+    /* flex-direction: column; */
+    justify-content: space-around;
+  background: #6a5acd;
+  margin:3%;
+  padding: 3%;
+
+}
+.child_left{
+  background:hsl(300, 76%, 72%);
+  padding: 3%;
+  margin: 15%;
+  box-shadow: 3px 3px 3px black ;
+  border-radius: 9%;
+}
+.child_right{
+  background:#808000 ;
+  padding: 3%;
+  margin: 15%;
+  box-shadow: 3px 3px 3px black ;
+  border-radius: 2%;
+}
+
+
+img{
+  width: 100;
+  border-radius: 6%;
+}
+table{
+  border:1px solid red;
+}

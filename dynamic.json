@@ -1,0 +1,42 @@
+{
+  "basics":{
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzp3wFndT5HwEcxbgK2N1o8Z2wMR7o65VYofYJkB0OVXoYXqCQQA",
+    "name":"jkson hu",
+    "email":"json@gmail.com"
+  },
+  "career":{
+    "info":" i want to do a job for money"
+  },
+  "Education":[
+    {
+      "sno":"1",
+      "degree":"b.tech",
+      "institue":"MITS",
+      "Percentage":"90"
+    },
+    {
+      "sno":"2",
+      "degree":"intermediate",
+      "institue":"narayana",
+      "Percentage":"95"
+    },
+    {
+      "sno":"3",
+      "degree":"s.s.c",
+      "institue":"Arunodaya",
+      "Percentage":"88"
+    }
+  ],
+  "skills": [
+    {
+      "info":"c"
+    },
+    {
+      "info":"c++"
+    },
+    {
+      "info":"java"
+    }
+  ]
+
+}
